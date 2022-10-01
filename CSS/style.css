@@ -1,0 +1,213 @@
+
+body{
+    
+    font-family: 'Merriweather',serif;
+    text-align: center;
+  
+    
+   
+   
+}
+#profilepic{
+    width:200px ;
+    border-image: round;
+    border-radius: 100%;
+    position: relative;
+    left: 50px;
+
+}
+
+h1{
+    font-size: 5.625rem;
+    font-family: 'Sacramento',cursive;
+    font-size: 90px;
+    margin: 50px auto 0px auto;
+    color:#2192FF
+}
+h2{
+    font-family: "Dancing Script";
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.A{
+   position: relative;
+   background-color:#ABD9FF;
+   text-align: center;
+   display: inline-block;
+   width: 100%;
+   padding-top:200px ;
+
+}
+
+.bottomcloud{
+    position: absolute;
+    bottom: 50%;
+    left: 190px;
+}
+.topcloud{
+    
+    position: absolute;
+    right: 180px;
+    top: 190px;
+    
+}
+hr{
+    
+    
+    width: 10%;
+    color: grey;
+    border-style:hidden ;
+    border-bottom:dotted;
+    border-width:10px ;
+
+}
+.g1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #FFD384;
+    position: relative;
+    bottom: 20px;
+}
+.g2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #FCFFB2;
+    position: relative;
+    bottom: 30px;
+}
+.profile{
+    background-color: #FFD384;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.skills{
+   
+    background-color: #FCFFB2;
+    padding-top: 5px;
+    position: relative;
+    bottom: 10px;
+    padding-bottom: 25px;
+}
+.contact-me{
+    background-color: #D2DAFF;
+    position: relative;
+    bottom: 20px;
+    padding-bottom: 29px;
+    padding-top: 0.5px;
+}
+.bottom-container
+{
+    background-color: #D2DAFF;
+    padding-top: 45px;
+    position: relative;
+    bottom: 35px;
+    padding-bottom: 5px;
+}
+.linkedin{
+    width: 50px;
+}
+.instagram
+{
+    width: 50px;
+}
+.facebook{
+    width: 50px;
+}
+.mail
+{
+    width:100px;
+}
+.tab1
+{
+    text-align: center;
+}
+.hello{
+    margin-bottom: 0px;
+    color: rgb(222, 144, 0);
+}
+.cell2
+{
+    position: relative;
+    right: 55px;
+}
+.robot
+{
+    position: absolute;
+    right: 10px;
+    top: 120%;
+    width: 400px;
+}
+.skill-row1
+{
+    position: relative;
+    right: 500px;
+    bottom: 120px;
+    
+}
+.skill-row2{
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+
+}
+.web{
+    width: 300px;
+}
+.android
+{
+    width: 350px;
+}
+#fs{
+    color: #2192FF;
+    margin-top:0px ;
+    
+}
+.mountain{
+    width: 350px;
+
+}
+.fp{
+    position: relative;
+    bottom: 10px;
+}
+.t1{
+    position: absolute;
+    right: 10px;
+    top:468px;
+    width:350px ;
+}
+.t2
+{
+    position: absolute;
+    left: 10px;
+    top:468px;
+    width:350px ;
+
+}
+.ms{
+    color: rgb(147, 147, 0);
+    position: relative;
+    top: 240px;
+    font-size: 70px;
+    left:30px;
+    
+    
+}
+.sr1{
+    color:rgb(147, 147, 0) ;
+}
+.sr2{
+    color: rgb(147, 147, 0);
+}
+.cm{
+    color: purple;
+}
+.cm1{
+    color:purple ;
+}
+
+
+
+
